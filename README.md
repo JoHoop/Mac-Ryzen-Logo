@@ -1,7 +1,7 @@
 This script replaces the logo shown in "About This Mac" with the Ryzen™ logo. `Assets.car` file can be modified with ThemeEngine if you would like to use your own logo.
 
-![Light Screenshot](Demo/light.png?raw=true)
 ![Dark Screenshot](Demo/dark.png?raw=true)
+![Light Screenshot](Demo/light.png?raw=true)
 
 # Compatibility
 
