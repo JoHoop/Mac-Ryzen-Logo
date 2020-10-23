@@ -3,6 +3,7 @@ This script replaces the logo shown in "About This Mac" with the Ryzen™ logo. 
 # Compatibility
 
 This script is intended for macOS 11 users running Big Sur beta on AMD Processors.
+It is forked from [github.com/jogerj/Mac-Ryzen-Logo](https://github.com/jogerj/Mac-Ryzen-Logo).
 
 # Download
 
