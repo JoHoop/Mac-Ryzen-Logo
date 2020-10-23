@@ -11,11 +11,11 @@ Run `git clone https://github.com/JoHoop/Mac-Ryzen-Logo/` to download
 
 # Instructions
 
-You need to disable System Integrity Protection (SIP) on your Mac/Hackintosh. Reboot to Recovery and run the Terminal and enter `csrutil disable` to disable SIP. Reboot to macOS and open Terminal in the script's folder.
+You need to disable System Integrity Protection (SIP) on your Mac/Hackintosh. 1. Reboot to Recovery and run the Terminal and enter `csrutil disable`. 2. Reboot to macOS and open Terminal in the script's folder. 3. Run `chmod +x ./InstallAssets.sh` 4. Run `./InstallAssets.sh` 5. Re-enable SIP in Recovery using `csrutil clear` and then `csrutil enable`.
 
-1. Run `chmod +x ./InstallAssets.sh`
-2. Run `./InstallAssets.sh`
-3. Re-enable SIP in Recovery using `csrutil clear` and then `csrutil enable`.
+# Restore
+
+Do the instructions above but instead of `InstallAssets` use `RestoreDefault`.
 
 # Credits
 
